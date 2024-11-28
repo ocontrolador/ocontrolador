@@ -1,6 +1,6 @@
 # O Controlador
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Sou um desenvolvedor full-stack por hobby, apaixonado por construir soluções web completas. Meus conhecimentos abrangem desde a linguagem de programação PHP e o banco de dados MySQL até o framework Laravel e a biblioteca JavaScript Vue. Trabalho em um ambiente Linux, principalmente no Ubuntu, e gosto de explorar novas tecnologias para aprimorar meus projetos. A combinação desses elementos me permite criar aplicações web robustas e interativas do início ao fim, me proporcionando grande satisfação e aprendizado contínuo.
 
